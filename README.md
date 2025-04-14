@@ -1,16 +1,20 @@
-## Hi there 👋
+# Welcome to My Special Repository
 
-<!--
-**hyein1010/hyein1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요, Welcome to my ✨special✨ repository!  
+저의 전공인 컴퓨터공학에 대하여...
 
-Here are some ideas to get you started:
+## About This Repository
+This repository contains various projects that showcase my skills and experiments in Computer Science & Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 현재 배우고 있는 것 ...
+- **1** 이산수학 (Discrete Mathematics)
+- **2** 디지털논리회로 (Digital Logic Circuit)
+- **3** 오픈소스SW (Open Source Software)
+  
+## 🛠️ 지금까지 다루어 본 "Programming Languages"
+-**Python** 
+-**C/C++**
+
+## 📫 링크 & 연락가능한 메일
+- GitHub: [@hyein1010](https://github.com/hyein1010)
+- Email: nonono180522@gmail.com

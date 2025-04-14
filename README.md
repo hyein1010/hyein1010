@@ -12,8 +12,8 @@ This repository contains various projects that showcase my skills and experiment
 - **3** 오픈소스SW (Open Source Software)
   
 ## 🛠️ 지금까지 다루어 본 "Programming Languages"
--**Python** 
--**C/C++**
+- **Python** 
+- **C/C++**
 
 ## 📫 링크 & 연락가능한 메일
 - GitHub: [@hyein1010](https://github.com/hyein1010)

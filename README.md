@@ -1,7 +1,7 @@
-# Welcome to My Special Repository
+## Hi, there
+I'm Roh hyein
 
-안녕하세요, Welcome to my ✨special✨ repository!  
-저의 전공인 컴퓨터공학에 대하여...
+# Welcome to My Special Repository
 
 ## About This Repository
 This repository contains various projects that showcase my skills and experiments in Computer Science & Engineering
